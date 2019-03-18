@@ -3,4 +3,5 @@ Blue
 Red
 Green
 Yellow
+Purple
 This is my rainbow.
